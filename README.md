@@ -29,7 +29,6 @@
   <a href="https://www.djangoproject.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a>
     <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a>  
   <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://material-ui.com/"> <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI" height="30" style="vertical-align:top; margin:4px"></a>
