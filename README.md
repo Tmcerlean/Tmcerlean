@@ -2,7 +2,7 @@
 
 <p align='center'>
   I'm Tom.
-  <br>Web developer and engineer.
+  <br>Web developer & engineer.
   <br>Reach out on:
 </p>
 
