@@ -1,6 +1,11 @@
 ### Hi there 👋
 ---
 
+## Languages
+![](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg)
+
+## Technologies
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
