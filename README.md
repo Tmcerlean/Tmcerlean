@@ -1,5 +1,7 @@
-<h3>Hey there 👋
-<br>I'm Tom McErlean<br>A Web Developer <br> and ex-Marketeer</h3>
+<div align="center">
+  <h3>Hey there 👋
+  <br>I'm Tom McErlean<br>A Web Developer <br> and ex-Marketeer</h3>
+</div>
 ---
 
 ## Languages
