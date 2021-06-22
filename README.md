@@ -12,9 +12,11 @@
 </p>
 
 ## Languages
-![](https://cdn.svgporn.com/logos/javascript.svg)
-![](https://cdn.svgporn.com/logos/typescript-icon.svg)
-![](https://cdn.svgporn.com/logos/python.svg)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.typescriptlang.org/"> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.python.org/"> <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
+</p>
 
 ## Technologies
 
