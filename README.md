@@ -1,7 +1,4 @@
-<div align="center">
-  <h3>Hey there 👋
-</div>
-<hr>
+<h1 align='center'> Hey there! :wave:</h1>
 
 ## Languages
 ![](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg)
