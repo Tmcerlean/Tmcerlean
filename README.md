@@ -12,14 +12,14 @@
 </p>
 
 ## Languages
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.python.org/"> <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## Technologies
-<p align="center">
+<p>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
