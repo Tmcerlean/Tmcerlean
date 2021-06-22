@@ -1,8 +1,6 @@
-### Hi there 👋
+<h3>Hey there 👋
+<br>I'm Tom McErlean<br>A Web Developer <br> and ex-Marketeer</h3>
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tmcerlean.visitor-badge)
-
 
 ## Languages
 ![](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg)
