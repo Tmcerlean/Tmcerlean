@@ -2,7 +2,7 @@
 
 <p align='center'>
   I'm Tom.
-  <br>A web developer and engineer.
+  <br>Web developer and engineer.
   <br>Reach out on:
 </p>
 
@@ -22,8 +22,11 @@
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://material-ui.com/"> <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://semantic-ui.com/"> <img src="https://cdn.svgporn.com/logos/semantic-ui.svg" alt="Semantic UI" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://tailwindcss.com/"> <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" height="30" style="vertical-align:top; margin:4px"></a>
-    <a href="https://styled-components.com/"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled Components" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://styled-components.com/"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled Components" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
