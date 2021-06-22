@@ -19,6 +19,13 @@
 </p>
 
 ## Technologies
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/react.svg
+" alt="React" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://nodejs.org/"> <img src="hhttps://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://tailwindcss.com/"> <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="TailwindCSS" height="30" style="vertical-align:top; margin:4px"></a>
+    <a href="https://styled-components.com/"> <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="Styled Components" height="30" style="vertical-align:top; margin:4px"></a>
+</p>
 
 
 - 🔭 I’m currently working on ...
