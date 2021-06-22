@@ -6,6 +6,7 @@ I'm Tom.
 
 ## Languages
 ![](https://raw.githubusercontent.com/aleen42/badges/master/src/javascript.svg)
+![](https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg)
 
 ## Technologies
 
