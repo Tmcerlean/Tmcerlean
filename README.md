@@ -21,7 +21,7 @@
 ## Technologies
 <p>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" height="30" style="vertical-align:top; margin:4px"></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://buraksenyurt.com/image.axd?picture=/2020/skynet/24/nextjs.png" alt="Next" height="30" style="vertical-align:top; margin:4px"></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://styles.redditmedia.com/t5_3h7yi/styles/communityIcon_9ds9kugm99g51.png" alt="Next" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://nodejs.org/"> <img src="https://cdn.svgporn.com/logos/nodejs.svg" alt="Node" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://expressjs.com/"> <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/359/full/expressjslogo.png" alt="Express" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://webpack.js.org/"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" height="30" style="vertical-align:top; margin:4px"></a>
