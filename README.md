@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thomas-mcerlean-6186b3b5/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.linkedin.com/in/tom-mcerlean/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:tjmcerlean@gmail.com"> <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
