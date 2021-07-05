@@ -27,10 +27,11 @@
   <a href="https://webpack.js.org/"> <img src="https://cdn.svgporn.com/logos/webpack.svg" alt="Webpack" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png" alt="Flask" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.djangoproject.com/"> <img src="https://cdn.svgporn.com/logos/django-icon.svg" alt="Django" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://www.djangoproject.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.sqlite.org/index.html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="SQLite" height="30" style="vertical-align:top; margin:4px"></a>
-    <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a>  
+  <a href="https://firebase.google.com/"> <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.heroku.com/"> <img src="  https://cdn.svgporn.com/logos/heroku-icon.svg" alt="Heroku" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://sass-lang.com/"> <img src="https://cdn.svgporn.com/logos/sass.svg" alt="SASS" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://getbootstrap.com/"> <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="https://material-ui.com/"> <img src="https://cdn.svgporn.com/logos/material-ui.svg" alt="Material UI" height="30" style="vertical-align:top; margin:4px"></a>
